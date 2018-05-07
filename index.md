@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Elon Mathieson Project Space 
 
-You can use the [editor on GitHub](https://github.com/EloM96/EloM96.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
